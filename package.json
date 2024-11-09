@@ -1,5 +1,5 @@
 {
-  "name": "react-frontend-online-food-delivery-app",
+  "name": "food-delivery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,6 +54,6 @@
   },
   "devDependencies": {
     "react-scripts": "^5.0.1",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.3.3"
   }
 }
